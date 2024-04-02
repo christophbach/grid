@@ -36,7 +36,7 @@ class Grid
      *
      * @var list<string>
      */
-    private array $rowClasses = ['row'];
+    private array $rowClasses = [];
 
     /**
      * Show gutters.
